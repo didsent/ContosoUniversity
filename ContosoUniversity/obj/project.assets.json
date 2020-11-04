@@ -8740,21 +8740,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeLibrary\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "D:\\CodeLibrary\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "D:\\Visual Studio Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeLibrary\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "outputPath": "D:\\Visual Studio Projects\\ContosoUniversity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
